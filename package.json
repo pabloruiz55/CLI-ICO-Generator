@@ -1,0 +1,17 @@
+{
+  "name": "CLI ICO Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.7",
+    "truffle-contract": "^3.0.1",
+    "web3": "^1.0.0-beta.26",
+    "zeppelin-solidity": "^1.4.0"
+  }
+}
